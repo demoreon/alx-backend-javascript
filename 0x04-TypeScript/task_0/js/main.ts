@@ -7,13 +7,13 @@ export interface Student {
 const studentA: Student = {
   firstName: "Mike",
   lastName: "Gwon",
-  age: 22,
+  age: 16,
   location: "budapest, ukraine",
 };
 const studentB: Student = {
   firstName: "steve",
   lastName: "Priyer",
-  age: 22,
+  age: 18,
   location: "glasgow, Uk",
 };
 
